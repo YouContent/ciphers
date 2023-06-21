@@ -3,6 +3,8 @@
 
 https://www.boxentriq.com/code-breaking/pigpen-cipher
 
+https://ciox.ru/reverse-text
+
 ## Шифры
 Шифр Цезаря https://planetcalc.ru/1434 
 
