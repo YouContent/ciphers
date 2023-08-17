@@ -1,3 +1,5 @@
+https://github.com/jestxfot/site
+
 ## :warning: Лучше использовать в начале!
 Шифр Бэкона (ЛОМАЕТ ЗАГЛАВНЫЕ БУКВЫ!) https://calculatorium.ru/cryptography/bacon-cipher
 
