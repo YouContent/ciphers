@@ -18,3 +18,5 @@ https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html
 http://base64.ru/
 
 https://ciox.ru/reverse-text
+
+Глючный текст: https://lingojam.com/GlitchTextGenerator
