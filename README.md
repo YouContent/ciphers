@@ -1,10 +1,7 @@
 https://github.com/jestxfot/site
 
 ## :warning: Лучше использовать в начале!
-Шифр Бэкона (ЛОМАЕТ ЗАГЛАВНЫЕ БУКВЫ!) 
-
-- https://calculatorium.ru/cryptography/bacon-cipher
-- https://cryptii.com/pipes/bacon-cipher
+Шифр Бэкона (ЛОМАЕТ ЗАГЛАВНЫЕ БУКВЫ!)  https://calculatorium.ru/cryptography/bacon-cipher (https://cryptii.com/pipes/bacon-cipher)
 
 (ЛОМАЕТ ЦИФРЫ!) https://www.boxentriq.com/code-breaking/pigpen-cipher
 
